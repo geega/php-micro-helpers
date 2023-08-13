@@ -13,5 +13,5 @@
             "Geega\\MicroHelpers\\": "src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev"
 }
