@@ -1,6 +1,6 @@
 <?php
 
-namespace Geega\MicroHelpers;
+namespace Geega\Micro\Helpers;
 
 class Str
 {

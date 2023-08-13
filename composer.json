@@ -1,7 +1,8 @@
 {
     "name": "geega/php-micro-helpers",
     "description": "PHP Helpers",
-    "php": ">=7.1",
+    "version": "0.0.1",
+    "php": ">=7.0",
     "require": {
     },
     "require-dev": {
@@ -10,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Geega\\MicroHelpers\\": "src/"
+            "Geega\\Micro\\Helpers\\": "src/"
         }
     },
     "minimum-stability": "dev"
